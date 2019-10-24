@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lendico-test/static/css/main.e8f52ae8.chunk.css",
-    "main.js": "/lendico-test/static/js/main.3ce457a0.chunk.js",
-    "main.js.map": "/lendico-test/static/js/main.3ce457a0.chunk.js.map",
+    "main.js": "/lendico-test/static/js/main.aef224e1.chunk.js",
+    "main.js.map": "/lendico-test/static/js/main.aef224e1.chunk.js.map",
     "runtime~main.js": "/lendico-test/static/js/runtime~main.e01de21e.js",
     "runtime~main.js.map": "/lendico-test/static/js/runtime~main.e01de21e.js.map",
     "static/css/2.ad9eb4b5.chunk.css": "/lendico-test/static/css/2.ad9eb4b5.chunk.css",
-    "static/js/2.126b5bf4.chunk.js": "/lendico-test/static/js/2.126b5bf4.chunk.js",
-    "static/js/2.126b5bf4.chunk.js.map": "/lendico-test/static/js/2.126b5bf4.chunk.js.map",
+    "static/js/2.e8c358ee.chunk.js": "/lendico-test/static/js/2.e8c358ee.chunk.js",
+    "static/js/2.e8c358ee.chunk.js.map": "/lendico-test/static/js/2.e8c358ee.chunk.js.map",
     "index.html": "/lendico-test/index.html",
-    "precache-manifest.785515b19a3c75775f96b534b8a7758f.js": "/lendico-test/precache-manifest.785515b19a3c75775f96b534b8a7758f.js",
+    "precache-manifest.cce2f6f9ca941e6ba6f8bb73f63500ac.js": "/lendico-test/precache-manifest.cce2f6f9ca941e6ba6f8bb73f63500ac.js",
     "service-worker.js": "/lendico-test/service-worker.js",
     "static/css/2.ad9eb4b5.chunk.css.map": "/lendico-test/static/css/2.ad9eb4b5.chunk.css.map",
     "static/css/main.e8f52ae8.chunk.css.map": "/lendico-test/static/css/main.e8f52ae8.chunk.css.map"

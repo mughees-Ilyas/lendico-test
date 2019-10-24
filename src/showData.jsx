@@ -34,8 +34,8 @@ function Navigation({dispatch, payload}) {
                             <Info
                                 key={1}
                                 id={1}
-                                amount={500}
-                                duration={4}
+                                amount={keys.amount}
+                                duration={keys.installment}
                                 monthlyInstallment={updateKeys}
                             />
                         </div>
