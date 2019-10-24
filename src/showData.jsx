@@ -9,7 +9,10 @@ import {getData} from "./Redux/action/simpleAction";
 
 function Navigation({dispatch, payload}) {
     const [updateKeys, setUpdateKeys] = useState('');
+    const [keys, setKeys]=useState([]);
     const handleChange = val => {
+            setKeys(val);
+            console.log(keys);
             dispatch(getData());
         };
     useEffect(() => {

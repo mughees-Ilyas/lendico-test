@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8f52ae8.chunk.css",
-    "main.js": "/static/js/main.46ee2e0d.chunk.js",
-    "main.js.map": "/static/js/main.46ee2e0d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.cbd38f86.js",
-    "runtime~main.js.map": "/static/js/runtime~main.cbd38f86.js.map",
-    "static/css/2.ad9eb4b5.chunk.css": "/static/css/2.ad9eb4b5.chunk.css",
-    "static/js/2.126b5bf4.chunk.js": "/static/js/2.126b5bf4.chunk.js",
-    "static/js/2.126b5bf4.chunk.js.map": "/static/js/2.126b5bf4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8f4fbb751f6641844ffe9cdb8ec6d515.js": "/precache-manifest.8f4fbb751f6641844ffe9cdb8ec6d515.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ad9eb4b5.chunk.css.map": "/static/css/2.ad9eb4b5.chunk.css.map",
-    "static/css/main.e8f52ae8.chunk.css.map": "/static/css/main.e8f52ae8.chunk.css.map"
+    "main.css": "/lendico-test/static/css/main.e8f52ae8.chunk.css",
+    "main.js": "/lendico-test/static/js/main.3ce457a0.chunk.js",
+    "main.js.map": "/lendico-test/static/js/main.3ce457a0.chunk.js.map",
+    "runtime~main.js": "/lendico-test/static/js/runtime~main.e01de21e.js",
+    "runtime~main.js.map": "/lendico-test/static/js/runtime~main.e01de21e.js.map",
+    "static/css/2.ad9eb4b5.chunk.css": "/lendico-test/static/css/2.ad9eb4b5.chunk.css",
+    "static/js/2.126b5bf4.chunk.js": "/lendico-test/static/js/2.126b5bf4.chunk.js",
+    "static/js/2.126b5bf4.chunk.js.map": "/lendico-test/static/js/2.126b5bf4.chunk.js.map",
+    "index.html": "/lendico-test/index.html",
+    "precache-manifest.785515b19a3c75775f96b534b8a7758f.js": "/lendico-test/precache-manifest.785515b19a3c75775f96b534b8a7758f.js",
+    "service-worker.js": "/lendico-test/service-worker.js",
+    "static/css/2.ad9eb4b5.chunk.css.map": "/lendico-test/static/css/2.ad9eb4b5.chunk.css.map",
+    "static/css/main.e8f52ae8.chunk.css.map": "/lendico-test/static/css/main.e8f52ae8.chunk.css.map"
   }
 }
