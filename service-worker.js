@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lendico-test/precache-manifest.cce2f6f9ca941e6ba6f8bb73f63500ac.js"
+  "/lendico-test/precache-manifest.6a1dc26bacee28146a6d697db3b8415e.js"
 );
 
 self.addEventListener('message', (event) => {

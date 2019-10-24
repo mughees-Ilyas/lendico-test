@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e51e0715c4605cb7937fc948e70c7bd",
+    "revision": "fd9e372e07ef03fb1fa93b9dc487de93",
     "url": "/lendico-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lendico-test/static/css/2.ad9eb4b5.chunk.css"
   },
   {
-    "revision": "45c4a3b0239a5aed69cc",
+    "revision": "208c294dc59f3522c1b7",
     "url": "/lendico-test/static/css/main.e8f52ae8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lendico-test/static/js/2.e8c358ee.chunk.js"
   },
   {
-    "revision": "45c4a3b0239a5aed69cc",
-    "url": "/lendico-test/static/js/main.aef224e1.chunk.js"
+    "revision": "208c294dc59f3522c1b7",
+    "url": "/lendico-test/static/js/main.3e66eb41.chunk.js"
   },
   {
     "revision": "1b6e866d93a6bf1e09b5",
